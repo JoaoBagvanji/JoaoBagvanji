@@ -25,4 +25,5 @@
 <br/>
 Amante de Tecnologia, e facilitar ainda mais a vida das pessoas através dela.
 <br/>
+
 ![Snake animation](https://github.com/JoaoBagvanji/JoaoBagvanji/blob/output/github-contribution-grid-snake.svg)
