@@ -21,7 +21,7 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBagvanji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBagvanji&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBagvanji&langs_count=10)](https://github.com/JoaoBagvanji/github-readme-stats)
 
 <br/>
 Amante de Tecnologia, e facilitar ainda mais a vida das pessoas através dela.
